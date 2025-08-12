@@ -36,4 +36,4 @@ Se desarrolló un algoritmo genético para optimizar horarios personales conside
 
 ## Información adicional
 
-La explicación completa del desarrollo de ambos problemas se encuentra en la [Wiki del repositorio](https://github.com/PabloCabrejos/IntroAI/wiki).
+La explicación completa del desarrollo de ambos problemas se encuentra en la [Wiki del repositorio](https://github.com/Bosnape/Sudoku-and-Scheduling-AI/wiki).
