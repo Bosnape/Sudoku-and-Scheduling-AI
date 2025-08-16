@@ -20,7 +20,7 @@ Este repositorio contiene la implementación de dos problemas fundamentales de I
 - **Jupyter Notebooks**
 - **Algoritmos de búsqueda informada (A*)**
 - **Algoritmos evolutivos (GA)**
-- **Librerías:** heapq, time, **[PENDIENTE: Completar librerías adicionales]**
+- **Librerías:** heapq, time, matplotlib **[PENDIENTE: Completar librerías adicionales]**
 
 ## 1. Agente de Búsqueda: Resolvedor de Sudokus
 
