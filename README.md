@@ -20,7 +20,7 @@ Este repositorio contiene la implementación de dos problemas fundamentales de I
 - **Jupyter Notebooks**
 - **Algoritmos de búsqueda informada (A*)**
 - **Algoritmos evolutivos (GA)**
-- **Librerías:** heapq, time, matplotlib **[PENDIENTE: Completar librerías adicionales]**
+- **Librerías:** heapq, time, matplotlib, numpy, seaborn, IPython
 
 ## 1. Agente de Búsqueda: Resolvedor de Sudokus
 
@@ -32,7 +32,7 @@ Se implementó un agente de búsqueda informada utilizando el algoritmo A* para 
 
 ### Descripción del Problema
 
-Se desarrolló un algoritmo genético para optimizar horarios personales considerando múltiples actividades como clases, trabajo, gimnasio, hobbies y descansos. El problema consiste en asignar actividades a bloques de tiempo discretos (por ejemplo, bloques de 30 minutos) maximizando el bienestar personal mientras se cumplen restricciones de tiempo y prioridades. El cromosoma se representa como una secuencia de actividades asignadas a cada bloque temporal, donde cada gen corresponde a una actividad específica. La función de fitness evalúa la calidad del horario penalizando solapamientos de actividades, horas de sueño insuficientes y violaciones de restricciones de tiempo, mientras recompensa más tiempo en actividades prioritarias y una distribución equilibrada. Las restricciones incluyen franjas fijas para clases y trabajo, límites diarios de horas por actividad, prioridades asignadas a diferentes actividades y requisitos mínimos de descanso. **[PENDIENTE: Implementar algoritmo genético completo]**
+Se desarrolló un algoritmo genético para optimizar horarios personales considerando múltiples actividades como clases, trabajo, gimnasio, hobbies y descansos. El problema consiste en asignar actividades a bloques de tiempo discretos (por ejemplo, bloques de 30 minutos) maximizando el bienestar personal mientras se cumplen restricciones de tiempo y prioridades. El cromosoma se representa como una secuencia de actividades asignadas a cada bloque temporal, donde cada gen corresponde a una actividad específica. La función de fitness evalúa la calidad del horario penalizando solapamientos de actividades, horas de sueño insuficientes y violaciones de restricciones de tiempo, mientras recompensa más tiempo en actividades prioritarias y una distribución equilibrada. Las restricciones incluyen franjas fijas para clases y trabajo, límites diarios de horas por actividad, prioridades asignadas a diferentes actividades y requisitos mínimos de descanso.
 
 ## Información adicional
 
